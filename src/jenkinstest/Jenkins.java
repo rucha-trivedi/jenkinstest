@@ -10,5 +10,6 @@ public class Jenkins {
 	public static void main(String[] args) {
 		test t = new test();
 		System.out.println("Done");
+		System.out.println("Jenkins Test");
 	}
 }
