@@ -11,5 +11,6 @@ public class Jenkins {
 		test t = new test();
 		System.out.println("Done");
 		System.out.println("Jenkins Test");
+		System.out.println("Auto First Build on Commit andf Push");
 	}
 }
